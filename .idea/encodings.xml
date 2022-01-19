@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/MainFrame.java" charset="GBK" />
+    <file url="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../BMS/src/data/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/HandleInsertData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/GetDBConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/HandleInsertData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/HandleLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/LoginView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/MainWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/RegisterAndLoginView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login/RegisterView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/GetDBConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/PublicJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/StudentsQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/TearchQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/UpdatePass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/addstudent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/amendclass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/amendcourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/amendscore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/amendtearch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/amnedfill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/chosecourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/classquery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/coursequery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Mainwindows/scorequery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/ChangeString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/Courses.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/Fillscore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/Score.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/Students.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/Tearchs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/chose.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/data/clas.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/Class.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/Department.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/score.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/students.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/tearchs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/GlobalVar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/concourse.java" charset="GBK" />
+    <file url="file://E:/BMS/src/data/ChangeString.java" charset="GBK" />
+    <file url="file://E:/BMS/src/data/ReaderDao.java" charset="GBK" />
+    <file url="file://E:/BMS/src/data/UserDao.java" charset="GBK" />
+    <file url="file://E:/BMS/src/entity/Book.java" charset="GBK" />
+    <file url="file://E:/BMS/src/entity/Borrow.java" charset="GBK" />
+    <file url="file://E:/BMS/src/windows/MainFrame.java" charset="GBK" />
+  </component>
+</project>
